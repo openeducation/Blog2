@@ -1,4 +1,4 @@
-1306446771
+1306448474
 Application	/home/matthew/rails_projects/MatthewBlog/MatthewBlog2/config/application.rb	  class Application 
 ApplicationController	/home/matthew/rails_projects/MatthewBlog/MatthewBlog2/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/matthew/rails_projects/MatthewBlog/MatthewBlog2/app/helpers/application_helper.rb	module ApplicationHelper
