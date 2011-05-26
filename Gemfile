@@ -16,7 +16,7 @@ gem 'sqlite3'
 gem 'jquery-rails'
 gem 'mustang'
 gem 'rake', '0.9.0'
-gem 'new_relic_rpm', '~>3.0.0'
+gem 'newrelic_rpm', '~>3.0.0'
 
 # Use unicorn as the web server
 gem 'unicorn'

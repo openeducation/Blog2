@@ -61,6 +61,7 @@ GEM
     mime-types (1.16)
     multi_json (1.0.3)
     mustang (0.2.2)
+    newrelic_rpm (3.0.1)
     nokogiri (1.4.4)
     polyglot (0.3.1)
     rack (1.3.0)
@@ -133,6 +134,7 @@ DEPENDENCIES
   jquery-rails
   json
   mustang
+  newrelic_rpm (~> 3.0.0)
   rails (= 3.1.0.rc1)
   rake (= 0.9.0)
   rspec-rails (= 2.6.1.beta1)
