@@ -14,7 +14,7 @@ gem 'sqlite3'
   gem 'uglifier'
 
 gem 'jquery-rails'
-gem 'mustang'
+# gem 'mustang'
 gem 'rake', '0.9.0'
 gem 'newrelic_rpm', '~>3.0.0'
 

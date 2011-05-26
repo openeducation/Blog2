@@ -60,7 +60,6 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.16)
     multi_json (1.0.3)
-    mustang (0.2.2)
     newrelic_rpm (3.0.1)
     nokogiri (1.4.4)
     polyglot (0.3.1)
@@ -133,7 +132,6 @@ DEPENDENCIES
   factory_girl_rails (= 1.0)
   jquery-rails
   json
-  mustang
   newrelic_rpm (~> 3.0.0)
   rails (= 3.1.0.rc1)
   rake (= 0.9.0)
